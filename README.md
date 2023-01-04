@@ -14,3 +14,11 @@ Currently learning:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chanyangpraise)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chanyangpraise&theme=dracula)](https://github.com/chanyangpraise/github-readme-activity-graph)
+
+![Lofi Girl](https://thumbs.gfycat.com/AgedMiniatureBoto-max-1mb.gif)
+
+![Lofi Girl Chilling](https://thumbs.gfycat.com/ElatedPalatableBadger-max-1mb.gif)
+
+![Lofi Girl at Night](https://thumbs.gfycat.com/DisgustingCharmingKissingbug-max-1mb.gif)
+
+![Anime Girl Napping on Desk](https://gifdb.com/images/high/lofi-girl-anime-sleeping-leaning-on-the-table-lt2anyxz7ce7286n.gif)
