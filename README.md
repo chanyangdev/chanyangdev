@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cychoi710@icloud.com
 ![lofi_generator (1)](https://user-images.githubusercontent.com/103631638/210513557-da883be3-8c48-4d87-a352-7633e4619372.png)
 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,css,react,aws,nextjs)](https://skillicons.dev)
