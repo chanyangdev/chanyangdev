@@ -20,6 +20,4 @@ Currently Learning:
 
 ![Lofi Girl](https://thumbs.gfycat.com/AgedMiniatureBoto-max-1mb.gif)
 
-![Lofi Girl at Night](https://thumbs.gfycat.com/DisgustingCharmingKissingbug-max-1mb.gif)
-
 ![Anime Girl Napping on Desk](https://gifdb.com/images/high/lofi-girl-anime-sleeping-leaning-on-the-table-lt2anyxz7ce7286n.gif)
