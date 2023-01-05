@@ -4,10 +4,13 @@
 **chanyangpraise/chanyangpraise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 📫 How to reach me: cychoi710@icloud.com
-![lofi_generator (1)](https://user-images.githubusercontent.com/103631638/210513557-da883be3-8c48-4d87-a352-7633e4619372.png)
-Currently learning:
+Currently Learning:
+<p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,react,aws,nextjs)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,react,aws,nextjs,tailwind" />
+  </a>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyangpraise)](https://github.com/chanyangpraise/github-readme-stats)
 
@@ -16,8 +19,6 @@ Currently learning:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chanyangpraise&theme=dracula)](https://github.com/chanyangpraise/github-readme-activity-graph)
 
 ![Lofi Girl](https://thumbs.gfycat.com/AgedMiniatureBoto-max-1mb.gif)
-
-![Lofi Girl Chilling](https://thumbs.gfycat.com/ElatedPalatableBadger-max-1mb.gif)
 
 ![Lofi Girl at Night](https://thumbs.gfycat.com/DisgustingCharmingKissingbug-max-1mb.gif)
 
