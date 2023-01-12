@@ -12,8 +12,6 @@ Currently Learning:
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyangpraise)](https://github.com/chanyangpraise/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chanyangpraise)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chanyangpraise&theme=dracula)](https://github.com/chanyangpraise/github-readme-activity-graph)
