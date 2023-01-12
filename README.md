@@ -8,7 +8,7 @@ Currently Learning:
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,react,aws,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,css,react" />
   </a>
 </p>
 
