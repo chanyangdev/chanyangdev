@@ -12,8 +12,6 @@ Currently Learning:
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chanyangpraise)](https://git.io/streak-stats)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chanyangpraise&theme=dracula)](https://github.com/chanyangpraise/github-readme-activity-graph)
 
 ![Lofi Girl](https://thumbs.gfycat.com/AgedMiniatureBoto-max-1mb.gif)
