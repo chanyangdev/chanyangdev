@@ -10,5 +10,5 @@ I am a lifelong learner, interested in mobile applications and responsive web de
 </a>
 
 <a href="https://github.com/chanyangpraise/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cychoi710" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cychoi710&theme=dracula" />
 </a>
