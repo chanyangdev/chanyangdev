@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋! My name is Chanyang and I'm a frontend developer, from 🇰🇷</h2>
 
-###
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div align="center">
