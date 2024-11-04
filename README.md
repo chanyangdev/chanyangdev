@@ -12,8 +12,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chanyangpraise&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chanyangpraise&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanyangpraise&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
