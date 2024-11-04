@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Korea
 * ✉️  You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning FullStack JavaScript
 
 <a href="https://www.github.com/chanyangpraise" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chanyangpraise?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/CChoi93704" target="_blank" rel="noreferrer"><img
