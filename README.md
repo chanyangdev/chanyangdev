@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍 I'm based in Korea
-* 🏫 OZ Coding School 7기
+* 🏫 OZ Coding School FE 7기
 * ✉️ You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
 * 🧠 I'm learning FullStack JavaScript
 
