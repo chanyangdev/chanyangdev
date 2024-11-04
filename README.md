@@ -37,3 +37,6 @@ src="https://img.shields.io/twitter/follow/CChoi93704?logo=twitter&style=for-the
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
