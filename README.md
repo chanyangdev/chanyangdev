@@ -4,10 +4,10 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Korea
-* 🏫  OZ Coding School 7기
-* ✉️   You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
-* 🧠  I'm learning FullStack JavaScript
+* 🌍 I'm based in Korea
+* 🏫 OZ Coding School 7기
+* ✉️ You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
+* 🧠 I'm learning FullStack JavaScript
 
 <a href="https://www.github.com/chanyangpraise" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chanyangpraise?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/CChoi93704" target="_blank" rel="noreferrer"><img
