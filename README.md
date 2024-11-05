@@ -10,9 +10,7 @@ Frontend Developer
 * 🧠 I'm learning FullStack JavaScript
 
 <a href="https://www.github.com/chanyangpraise" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chanyangpraise?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/CChoi93704" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CChoi93704?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/chanyangpraise?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
 [![wakatime](https://wakatime.com/badge/user/e91c22d1-2ad0-4d38-b9b6-5b67e70b7bca.svg)](https://wakatime.com/@e91c22d1-2ad0-4d38-b9b6-5b67e70b7bca)
 
