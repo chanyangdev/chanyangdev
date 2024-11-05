@@ -8,9 +8,7 @@ Frontend Developer
 * 🏫 OZ Coding School FE 7기
 * ✉️ You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
 * 🧠 I'm learning FullStack JavaScript
-
-[![wakatime](https://wakatime.com/badge/user/e91c22d1-2ad0-4d38-b9b6-5b67e70b7bca.svg)](https://wakatime.com/@e91c22d1-2ad0-4d38-b9b6-5b67e70b7bca)
-
+* 
 ### 🧑‍💻 Skills
 
 
