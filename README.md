@@ -1,12 +1,10 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanyang
 ================================================================================================================================
 
-* 🌍 I'm based in Korea
+* 🌍 Based in Korea
 * 🏫 OZ Coding School FE 7기
 * ✉️ You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
 * 🧠 I'm learning FullStack JavaScript
-  
-## 🧑‍💻 Skills
 
 ### 💻 Core
 <p align="left">
