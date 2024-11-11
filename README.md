@@ -60,7 +60,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### ☑️ Todoist Stats
 <!-- TODO-IST:START -->
 🏆  3,269 Karma Points           
-🌸  Completed 4 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 102 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
