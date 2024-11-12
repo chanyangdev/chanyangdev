@@ -82,4 +82,3 @@ TypeScript    1 hr 21 mins    ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![breakcore-anime-depressed](https://github.com/user-attachments/assets/db54e73e-857b-41da-9618-f2cedc651fe4)
