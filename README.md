@@ -1,5 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Chanyang
-================================================================================================================================
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/chanyangpraise"
+  width="600"
+  height="300"
+/>
+</a>
 
 * 🌍 Based in Korea
 * 🏫 OZ Coding School FE 7기
@@ -77,13 +82,4 @@ TypeScript    1 hr 21 mins    ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/chanyangpraise"
-  width="600"
-  height="300"
-/>
-</a>
-
 ![breakcore-anime-depressed](https://github.com/user-attachments/assets/db54e73e-857b-41da-9618-f2cedc651fe4)
