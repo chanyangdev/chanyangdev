@@ -79,7 +79,11 @@ TypeScript    1 hr 21 mins    ▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{chanyangpraise}"/>
+<img
+  src="https://render.gitanimals.org/farms/chanyangpraise"
+  width="600"
+  height="300"
+/>
 </a>
 
 ![breakcore-anime-depressed](https://github.com/user-attachments/assets/db54e73e-857b-41da-9618-f2cedc651fe4)
