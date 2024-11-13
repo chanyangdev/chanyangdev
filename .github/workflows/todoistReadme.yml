@@ -3,7 +3,7 @@ name: Todoist Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
+    # Runs every 3rd hour
     - cron: "0 */3 * * *"
 
 jobs:
