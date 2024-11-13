@@ -74,11 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            31 hrs 52 mins  ███████████████▒░░░░░░░░░   61.32 %
-JavaScript       7 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-HTML             5 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-TypeScript       3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-CSS              2 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
