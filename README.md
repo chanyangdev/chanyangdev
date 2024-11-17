@@ -1,16 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/chanyangpraise"
-  width="600"
-  height="300"
-/>
-</a>
-
-* 🌍 Based in Korea
-* 🏫 OZ Coding School FE 7기
-* ✉️ You can contact me at [cychoi710@icloud.com](mailto:cychoi710@icloud.com)
-* 🧠 I'm learning FullStack JavaScript
-
 ### 💻 Core
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;
