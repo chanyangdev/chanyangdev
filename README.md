@@ -56,11 +56,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         8 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-JavaScript       7 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
-TypeScript       7 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-CSS              2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Other            36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JavaScript       8 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.30 %
+Markdown         7 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+TypeScript       7 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+CSS              2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Git Config       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
