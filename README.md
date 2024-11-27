@@ -1,58 +1,37 @@
-### 💻 Core
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>&nbsp;
-</p>
-
-### 🕸️ Frontend 
-<p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>&nbsp;
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-</a>
-</p>
-
-### 📁 Backend and Database
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
-### ☁️ Cloud
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>&nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
-
-### 🌐 Socials
-<p align="left"> 
-<a href="https://www.dev.to/cychoi710" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> 
-</a>&nbsp;
-<a href="https://discord.com/users/c81896215" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> 
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/chanyang-choi-05657532b" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
-</a>&nbsp;
-<a href="https://www.stackoverflow.com/users/27465110/praisx" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> 
-</a>&nbsp;
-<a href="https://www.x.com/CChoi93704" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> 
-</a>
-</p>
-
-### ☑️ Todoist Stats
-<!-- TODO-IST:START -->
-🏆  4,864 Karma Points           
-🌸  Completed 13 tasks today           
-✅  Completed 196 tasks so far           
-⏳  Longest streak is 4 days
-<!-- TODO-IST:END -->
-
-### 📊 Weekly Development Breakdown
+```
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+```
+```
+                     ..'          chanyangchoi@Chanyangs-MacBook-Pro
+                 ,xNMM.           ----------------------------------
+               .OMMMMo            OS: macOS Sequoia 15.1.1 arm64
+               lMM"               Host: MacBook Pro (16-inch, 2021)
+     .;loddo:.  .olloddol;.       Kernel: Darwin 24.1.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:     Uptime: 8 hours, 52 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.     Packages: 164 (brew), 6 (brew-cask)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.       Shell: zsh 5.9
+;MMMMMMMMMMMMMMMMMMMMMMMM:        Display (LG ULTRAGEAR): 1920x1080 @ 144 Hz in 27" [External] *
+:MMMMMMMMMMMMMMMMMMMMMMMM:        Display (Color LCD): 2992x1934 @ 120 Hz (as 1496x967) in 16" [Built-in]
+.MMMMMMMMMMMMMMMMMMMMMMMMX.       DE: Aqua
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.     WM: Quartz Compositor
+ 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk    WM Theme: Multicolor (Dark)
+  'XMMMMMMMMMMMMMMMMMMMMMMMMK.    Font: .AppleSystemUIFont [System], Helvetica [User]
+    kMMMMMMMMMMMMMMMMMMMMMMd      Cursor: Fill - Black, Outline - White (95px)
+     ;KMMMMMMMWXXWMMMMMMMk.       Terminal: iTerm 3.5.10
+       "cooc*"    "*coo'"         Terminal Font: MonaspiceNeNF-Regular (24pt)
+                                  CPU: Apple M1 Pro (10) @ 3.23 GHz
+                                  GPU: Apple M1 Pro (16) @ 1.30 GHz [Integrated]
+```
 <!--START_SECTION:waka-->
 
 ```txt
