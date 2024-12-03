@@ -1,19 +1,6 @@
 ```
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
-```
-```
                      ..'          
-                 ,xNMM.           
+                 ,xNMM.                                          Hello World!
                .OMMMMo            
                lMM"               
      .;loddo:.  .olloddol;.       
@@ -28,10 +15,9 @@
   'XMMMMMMMMMMMMMMMMMMMMMMMMK.    Terminal Font: MonaspiceNeNF-Regular (24pt)
     kMMMMMMMMMMMMMMMMMMMMMMd      CPU: Apple M1 Pro (10) @ 3.23 GHz
      ;KMMMMMMMWXXWMMMMMMMk.       GPU: Apple M1 Pro (16) @ 1.30 GHz [Integrated]
-       "cooc*"    "*coo'"         
-                                  
-                                  
+       "cooc*"    "*coo'"                                                                             
 ```
+
 <!--START_SECTION:waka-->
 
 ```txt
