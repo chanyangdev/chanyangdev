@@ -26,8 +26,6 @@ I’m passionate about **Artificial Intelligence**, especially **Large Language 
 ## 📈 GitHub Stats
 ![Chanyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyangdev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanyangdev&layout=compact&theme=radical)
-
 ---
 
 ## 🌱 Currently Learning
