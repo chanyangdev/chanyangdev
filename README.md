@@ -36,8 +36,8 @@ I’m passionate about **Artificial Intelligence**, especially **Large Language 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-choi-05657532b/) *(add your link here)*  
-- 🐦 [Twitter/X](https://twitter.com) *(add your link here)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-choi-05657532b/) 
+- 🐦 [Twitter/X](https://twitter.com) 
 - ✉️ Reach me at: cychoi7107@gmail.com
 
 ---
